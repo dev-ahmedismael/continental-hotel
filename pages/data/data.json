@@ -1,0 +1,898 @@
+{
+  "latest_news": [
+    {
+      "id": "latest_news1",
+      "img": "/db/images/latest-news/news1.jpg",
+      "date": "THURSDAY, AUGUST 20, 2020",
+      "title": "\"TRUST YOU\" AWARD",
+      "description": "We are delighted and proud to announce that we have been awarded by \"Trust You\", as an Excellent Hotel based on our guest reviews."
+    },
+    {
+      "id": "latest_news2",
+      "img": "/db/images/latest-news/news2.jpg",
+      "date": "WEDNESDAY, AUGUST 19, 2020",
+      "title": "COVID-19 HYGIENE AND SAFETY STANDARDS CERTIFICATE",
+      "description": "We are proud to announce that Continental Hotel Hurghada has been certified by Preverisk International Standards for completing the Preverisk International COVID-19 Hygiene Response Program protocols"
+    },
+    {
+      "id": "latest_news3",
+      "img": "/db/images/latest-news/news3.jpg",
+      "date": "SUNDAY, AUGUST 16, 2020",
+      "title": "The TUV NORD Certificate For Hygiene and Cleanliness",
+      "description": "It is our pleasure to announce that we have been certified by the TUV NORD organization for Hygiene and Cleanliness Checked."
+    },
+    {
+      "id": "latest_news4",
+      "img": "/db/images/latest-news/news4.jpg",
+      "date": "TUESDAY, JULY 14, 2020",
+      "title": "Dabke Restaurant Renovation",
+      "description": "Dabke restaurant has been totally renovated, located directly at our private marina boasting a beautiful view across the water, one of the amazing spots for casual-diners to enjoy oriental specialties"
+    }
+  ],
+  "awards": [
+    {
+      "id": "awards1",
+      "img": "/db/images/awards/awards1.jpg"
+    },
+    {
+      "id": "awards2",
+      "img": "/db/images/awards/awards2.jpg"
+    },
+    {
+      "id": "awards3",
+      "img": "/db/images/awards/awards3.jpg"
+    },
+    {
+      "id": "awards4",
+      "img": "/db/images/awards/awards4.jpg"
+    },
+    {
+      "id": "awards5",
+      "img": "/db/images/awards/awards5.jpg"
+    },
+    {
+      "id": "awards6",
+      "img": "/db/images/awards/awards6.jpg"
+    },
+    {
+      "id": "awards7",
+      "img": "/db/images/awards/awards7.jpg"
+    },
+    {
+      "id": "awards8",
+      "img": "/db/images/awards/awards8.jpg"
+    }
+  ],
+  "meetingsandevents": [
+    {
+      "id": "meeting1",
+      "sn": "1",
+      "title": "The Ideal Business Meeting Venue",
+      "description": "Are you searching for an exceptional venue to host a professional event in a unique destination that exceeds all the expectations? We offer you all of it besides an excellent service, high-quality facilities, and a productive atmosphere to get the most of this event. Whether you are hosting a corporate board meeting or a small-sized event, we have arranged everything you will need; starting from the latest technology, customized catering options, exciting outings, and a dedicated team of events experts who will be eager to help to achieve all your business goals.",
+      "images": [
+        {
+          "id": "The Ideal Business Meeting Venue/1",
+          "src": "/db/images/meetings&events/The Ideal Business Meeting Venue/1.jpg",
+          "carousel": "meeting1"
+        },
+        {
+          "id": "The Ideal Business Meeting Venue/2",
+          "src": "/db/images/meetings&events/The Ideal Business Meeting Venue/2.jpg"
+        },
+        {
+          "id": "The Ideal Business Meeting Venue/3",
+          "src": "/db/images/meetings&events/The Ideal Business Meeting Venue/3.jpg"
+        },
+        {
+          "id": "The Ideal Business Meeting Venue/4",
+          "src": "/db/images/meetings&events/The Ideal Business Meeting Venue/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meeting2",
+      "sn": "2",
+      "title": "Tailored Wedding Experiences",
+      "description": "Creating Tailored experiences in special days like this, we have been helping couples turn dreams into reality for many years now; no need for a long search for the perfect wedding venue, you have us now, and we will save your time to \"the love part.\" Our wedding specialists understand the importance of your big day and how it holds a special place in all our hearts; that is why they are paying attention to each detail, and they will help you create an unforgettable celebration the way you dream.",
+      "images": [
+        {
+          "id": "Tailored Wedding Experiences/1",
+          "src": "/db/images/meetings&events/Tailored Wedding Experiences/1.jpg",
+          "carousel": "meeting2"
+        },
+        {
+          "id": "Tailored Wedding Experiences/2",
+          "src": "/db/images/meetings&events/Tailored Wedding Experiences/2.jpg"
+        },
+        {
+          "id": "Tailored Wedding Experiences/3",
+          "src": "/db/images/meetings&events/Tailored Wedding Experiences/3.jpg"
+        },
+        {
+          "id": "Tailored Wedding Experiences/4",
+          "src": "/db/images/meetings&events/Tailored Wedding Experiences/4.jpg"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "e1",
+      "title": "Restaurants & Bars",
+      "description": "A wide range of culinary delights awaits our guests in six different restaurants and bars.",
+      "img": "/db/images/experience/1.jpg",
+      "url": "/restaurants-bars"
+    },
+    {
+      "id": "e2",
+      "title": "Health Club",
+      "description": "Keep your health maintained with our Health Club.",
+      "img": "/db/images/experience/2.jpg",
+      "url": "/health-club"
+    },
+    {
+      "id": "e3",
+      "title": "Leisure Facilities",
+      "description": "Extensive leisure and sports options are available including a private sandy beach and marina, large swimming pool, diving and water sports",
+      "img": "/db/images/experience/3.jpg",
+      "url": "/activities"
+    },
+    {
+      "id": "e4",
+      "title": "Meetings & Events",
+      "description": "We mix business with pleasure! Plan your event with ease with expert advice from our professional events team.",
+      "img": "/db/images/experience/4.jpg",
+      "url": "/meetings-events"
+    }
+  ],
+  "activities": [
+    {
+      "id": "activities1",
+      "sn": "1",
+      "title": "Pool",
+      "description": "There is nothing like a refreshing dip in the pool where a \"vacation\" is done right; we're creating a splash for you on an unforgettable break under the sun and beside the fun. Lay in the cristal water within the festive vibes of the party pool and its indulgent features. You are invited to spend a relaxing yet vibrant and lively time.",
+      "images": [
+        {
+          "id": "pool1",
+          "src": "/db/images/activities/Pool/1.jpg",
+          "carousel": "activities1"
+        },
+        {
+          "id": "pool2",
+          "src": "/db/images/activities/Pool/2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "activities2",
+      "sn": "2",
+      "title": "Beach",
+      "description": "Get some well-earned relaxation and escape to our beach hotel to see just how wonderful life on the water can be. From the moment you wake up to a bewitching view of the blue water till the time you will enjoy the charming sunset on the beach. This is the perfect beachfront getaway that you deserve!",
+      "images": [
+        {
+          "id": "beach1",
+          "src": "/db/images/activities/Beach/1.jpg",
+          "carousel": "activities2"
+        },
+        {
+          "id": "beach2",
+          "src": "/db/images/activities/Beach/2.jpg"
+        },
+        {
+          "id": "beach3",
+          "src": "/db/images/activities/Beach/3.jpg"
+        },
+        {
+          "id": "beach4",
+          "src": "/db/images/activities/Beach/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "activities3",
+      "sn": "3",
+      "title": "Water Sports",
+      "description": "Spending your day by the water is always a good idea to explore our variety of different water sports and to enjoy your well-deserved time and the adrenaline rush. Get yourself ready for a fun staycation with your loved ones only at your favorite beach hotel in Hurghada.",
+      "images": [
+        {
+          "id": "water1",
+          "src": "/db/images/activities/Water Sports/1.jpg",
+          "carousel": "activities3"
+        },
+        {
+          "id": "water2",
+          "src": "/db/images/activities/Water Sports/2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "activities4",
+      "sn": "4",
+      "title": "Games",
+      "description": "Unwind your mind by doing something you enjoy, like playing a game in a lovely venue that is equipped with all you will need to feel the vacation vibes. Choose the game with your loved ones, and we will keep you all busy the way you like and do not forget to make fun memories and leave footprints everywhere you can reach here; excited already?",
+      "images": [
+        {
+          "id": "games1",
+          "src": "/db/images/activities/Games/1.jpg",
+          "carousel": "activities4"
+        },
+        {
+          "id": "games2",
+          "src": "/db/images/activities/Games/2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "activities5",
+      "sn": "5",
+      "title": "Kids Club",
+      "description": "We have arranged everything that the little ones will need in your dream vacation to find your inner peace while keeping them happy. We offer your kids a variety of non-stoppable activities, entertaining learning programs, and more kids in the area to have fun together!",
+      "images": [
+        {
+          "id": "kids1",
+          "src": "/db/images/activities/Kids Club/1.jpg",
+          "carousel": "activities5"
+        }
+      ]
+    },
+    {
+      "id": "activities6",
+      "sn": "6",
+      "title": "Tennis & Squash",
+      "description": "Take advantage of our excellent recreational facilities during your stay with us & make the most of precious leisure time on our tennis & squash court. Here, you will experience the thrill of spending a fun and stress-free vacation in an entertainment venue that is designed and fully equipped to cater to all your needs.",
+      "images": [
+        {
+          "id": "tennis1",
+          "src": "/db/images/activities/Tennis & Squash/1.jpg",
+          "carousel": "activities6"
+        },
+        {
+          "id": "tennis2",
+          "src": "/db/images/activities/Tennis & Squash/2.jpg"
+        }
+      ]
+    }
+  ],
+  "restaurantsandbars": [
+    {
+      "id": "restaurants1",
+      "sn": "1",
+      "title": "Palm’s Brasserie",
+      "description": "Main dining restaurant with a sumptuous buffet and rotating theme nights located at hotel ground floor (lobby level).",
+      "text2": "Its operating hours are:",
+      "text3": "Breakfast: 07:00 - 10:00",
+      "text4": "Lunch :    13 :00 - 15 :00",
+      "text5": "Dinner:  18 :30 – 21 :00  (Winter Time)",
+      "text6": "               19 :00 – 22 :00 (Summer Time) ",
+      "images": [
+        {
+          "id": "restaurant1",
+          "src": "/db/images/restaurants&bars/Palm’s Brasserie/1.jpg",
+          "carousel": "restaurant1"
+        },
+        {
+          "id": "Palm’s Brasserie2",
+          "src": "/db/images/restaurants&bars/Palm’s Brasserie/2.jpg"
+        },
+        {
+          "id": "Palm’s Brasserie3",
+          "src": "/db/images/restaurants&bars/Palm’s Brasserie/3.jpg"
+        },
+        {
+          "id": "Palm’s Brasserie4",
+          "src": "/db/images/restaurants&bars/Palm’s Brasserie/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants2",
+      "sn": "2",
+      "title": "Al Dente Restaurant",
+      "description": "Al Dente Traditional Italian decore takes you back to the old country, and the menu of classic. During the warmer months, the terrace overlooking the pool and gardens is set with candlelit tables for dining al fresco.",
+      "text2": "Dinner à la carte",
+      "text3": "Winter: 18:30 - 21:00",
+      "text4": "Summer: 19:00 - 22:00",
+      "images": [
+        {
+          "id": "Al Dente Restaurant1",
+          "src": "/db/images/restaurants&bars/Al Dente Restaurant/1.jpg",
+          "carousel": "restaurant2"
+        },
+        {
+          "id": "Al Dente Restaurant2",
+          "src": "/db/images/restaurants&bars/Al Dente Restaurant/2.jpg"
+        },
+        {
+          "id": "Al Dente Restaurant3",
+          "src": "/db/images/restaurants&bars/Al Dente Restaurant/3.jpg"
+        },
+        {
+          "id": "Al Dente Restaurant4",
+          "src": "/db/images/restaurants&bars/Al Dente Restaurant/4.png"
+        }
+      ]
+    },
+    {
+      "id": "restaurants3",
+      "sn": "3",
+      "title": "Dabke Restaurant",
+      "description": "Dabke Restaurant offers à la carte menu of oriental specialties such as Egyptian, Oriental mezzeh and a wide selection of mixed grill served with your choice of imported and local wine. Enjoy the outdoor terrace directly overlooking the private marina and the beautiful Red Sea beyond.",
+      "text2": "Operating hours: 13:00 - 22:00",
+      "images": [
+        {
+          "id": "Dabke Restaurant",
+          "src": "/db/images/restaurants&bars/Dabke Restaurant/1.jpg",
+          "carousel": "restaurant3"
+        },
+        {
+          "id": "Dabke Restaurant2",
+          "src": "/db/images/restaurants&bars/Dabke Restaurant/2.png"
+        },
+        {
+          "id": "Dabke Restaurant3",
+          "src": "/db/images/restaurants&bars/Dabke Restaurant/3.png"
+        }
+      ]
+    },
+    {
+      "id": "restaurants4",
+      "sn": "4",
+      "title": "La Terrace Bar & Grill",
+      "description": "La Terrace Bar and Grill is the perfect place for an \"open air\" dining experience.  The ultimate dine place with direct sea view! Expect a wide variety of grilled dishes with intense flavors as well as a generous selection of mezzeh and salads.",
+      "text2": "Open Daily from 19:00-22:00",
+      "images": [
+        {
+          "id": "La Terrace Bar & Grill",
+          "src": "/db/images/restaurants&bars/La Terrace Bar & Grill/1.jpg",
+          "carousel": "restaurant4"
+        },
+        {
+          "id": "La Terrace Bar & Grill2",
+          "src": "/db/images/restaurants&bars/La Terrace Bar & Grill/2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants5",
+      "sn": "5",
+      "title": "Beach Bar",
+      "description": "Throughout the day time Al Khalig casual bar and restaurant overlooking the sparkling beach beyond serves light snacks and international cuisine",
+      "text2": "Beverage Services (Winter)  10:00 - 17:00",
+      "text3": "Beverage Services (Summer)  10:00 - 18:00",
+      "text4": "Ice Cream (Beach bar)  15:00 - 17:00",
+      "text5": "Lunch (Extra Charge)  14:00 - 17:00",
+      "images": [
+        {
+          "id": "Beach Bar",
+          "src": "/db/images/restaurants&bars/Beach Bar/1.jpg",
+          "carousel": "restaurant5"
+        },
+        {
+          "id": "Beach Bar2",
+          "src": "/db/images/restaurants&bars/Beach Bar/2.jpg"
+        },
+        {
+          "id": "Beach Bar3",
+          "src": "/db/images/restaurants&bars/Beach Bar/3.jpg"
+        },
+        {
+          "id": "Beach Bar4",
+          "src": "/db/images/restaurants&bars/Beach Bar/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants6",
+      "sn": "6",
+      "title": "Tea Garden",
+      "description": "Nestled in the heart of the hotel, relaxing and peaceful setting, offering the ultimate ice cream experience the way you want it. Premium ice cream, freshly baked waffles & pancakes.",
+      "images": [
+        {
+          "id": "Tea Garden",
+          "src": "/db/images/restaurants&bars/Tea Garden/1.jpg",
+          "carousel": "restaurant6"
+        },
+        {
+          "id": "Tea Garden2",
+          "src": "/db/images/restaurants&bars/Tea Garden/2.jpg"
+        },
+        {
+          "id": "Tea Garden3",
+          "src": "/db/images/restaurants&bars/Tea Garden/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants7",
+      "sn": "7",
+      "title": "Pool Bar",
+      "description": "Enjoy the pool side restaurant and swim-up bar for lunch, light meals, fancy drinks, fresh juice",
+      "text2": "Beverage Services (Winter)  10:00 - 17:00",
+      "text3": "Beverage Services (Summer)  10:00 - 15:00",
+      "text4": "Lunch à la carte (Extra Charge)  12:00 - 17:00",
+      "text5": "Snack Menu (All Inclusive)  15:00 - 17:00",
+      "images": [
+        {
+          "id": "Pool Bar",
+          "src": "/db/images/restaurants&bars/Pool Bar/1.jpg",
+          "carousel": "restaurant7"
+        },
+        {
+          "id": "Pool Bar2",
+          "src": "/db/images/restaurants&bars/Pool Bar/2.jpg"
+        },
+        {
+          "id": "Pool Bar3",
+          "src": "/db/images/restaurants&bars/Pool Bar/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants8",
+      "sn": "8",
+      "title": "Sundeck Bar",
+      "description": "A typical Bedouin-inspired informal rooftop lounge, exclusively accessible to adults only.  A star filled sky combined with the sounds of Arabic Oud music creates a sense of desert romance. This cozy place is perfect to visit just before sunset or after dinner for those who want to enjoy their evening in a quiet location.",
+      "images": [
+        {
+          "id": "Sundeck Bar1",
+          "src": "/db/images/restaurants&bars/Sundeck Bar/1.jpg",
+          "carousel": "restaurant8"
+        },
+        {
+          "id": "Sundeck Bar2",
+          "src": "/db/images/restaurants&bars/Sundeck Bar/2.jpg"
+        },
+        {
+          "id": "Sundeck Bar3",
+          "src": "/db/images/restaurants&bars/Sundeck Bar/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants9",
+      "sn": "9",
+      "title": "Captain’s Bar",
+      "description": "Captain's Bar serves a variety of trendy cocktails, speciality coffees, beverages and snacks. Enjoy live entertainment, Belly dancers, Tanoura and other exciting Folkloric shows offered in the evenings for you to enjoy and discover.",
+      "text2": "10 am – 3 am Daily",
+      "images": [
+        {
+          "id": "Captain’s Bar",
+          "src": "/db/images/restaurants&bars/Captain’s Bar/1.jpg",
+          "carousel": "restaurant9"
+        },
+        {
+          "id": "Captain’s Bar2",
+          "src": "/db/images/restaurants&bars/Captain’s Bar/2.jpg"
+        },
+        {
+          "id": "Captain’s Bar3",
+          "src": "/db/images/restaurants&bars/Captain’s Bar/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants10",
+      "sn": "10",
+      "title": "Sky Roof Café",
+      "description": "Visit the Sky Roof Café for an unforgettable and inspirational experience overlooking the hotel marina and the magnificent turquoise waters of the Red Sea. The Sky Roof Cafe will be available each day to all guests as an exclusive jewel to enjoy delicious cocktails & a selection of premium drinks while enjoying a pleasant moment with marvelous views and relaxing music. Adults Only",
+      "text2": "Operating Hours: 12:00 – 20:00",
+      "images": [
+        {
+          "id": "Sky Roof Cafe",
+          "src": "/db/images/restaurants&bars/Sky Roof Cafe/1.jpg",
+          "carousel": "restaurant10"
+        },
+        {
+          "id": "Sky Roof Cafe2",
+          "src": "/db/images/restaurants&bars/Sky Roof Cafe/2.jpg"
+        },
+        {
+          "id": "Sky Roof Cafe3",
+          "src": "/db/images/restaurants&bars/Sky Roof Cafe/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "restaurants11",
+      "sn": "11",
+      "title": "B2 Lounge",
+      "description": "The B2 Lounge Hurghada is the ultimate go-to destination to all party hoppers. This is the best evening escapade that one can find in the city. Loaded with energized nights and thumping music, the B2 Lounge Hurghada is all set to take you to a whole new world of night-time entertainment. Apart from stunning décor, impressive lighting and energetic ambience, the club features a massive dance floor with spacious VIP lounges.",
+      "images": [
+        {
+          "id": "B2 Lounge",
+          "src": "/db/images/restaurants&bars/B2 Lounge/1.jpg",
+          "carousel": "restaurant11"
+        },
+        {
+          "id": "B2 Lounge2",
+          "src": "/db/images/restaurants&bars/B2 Lounge/2.jpg"
+        },
+        {
+          "id": "B2 Lounge3",
+          "src": "/db/images/restaurants&bars/B2 Lounge/3.jpg"
+        },
+        {
+          "id": "B2 Lounge4",
+          "src": "/db/images/restaurants&bars/B2 Lounge/4.jpg"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/db/images/gallery/1.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/2.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/3.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/4.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/5.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/6.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/7.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/8.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/9.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/10.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/11.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/12.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/13.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/14.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/15.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/16.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/17.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/18.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/19.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/20.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/21.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/22.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/23.jpg", "category": "OVERVIEW" },
+    { "src": "/db/images/gallery/24.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/25.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/26.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/27.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/28.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/29.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/30.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/31.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/32.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/33.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/34.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/35.jpg", "category": "ACCOMMODATION" },
+    { "src": "/db/images/gallery/36.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/37.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/38.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/39.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/40.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/41.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/42.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/43.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/44.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/45.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/46.jpg", "category": "RESTAURANTS & BARS" },
+    { "src": "/db/images/gallery/47.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/48.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/49.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/50.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/51.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/52.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/53.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/54.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/55.jpg", "category": "ACTIVITIES" },
+    { "src": "/db/images/gallery/56.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/57.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/58.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/59.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/60.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/61.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/62.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/63.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/64.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/65.jpg", "category": "MEETINGS & EVENTS" },
+    { "src": "/db/images/gallery/66.jpg", "category": "MEETINGS & EVENTS" }
+  ],
+  "accommodation": [
+    {
+      "id": "Classic-Room-with-Partial-Sea-View",
+      "title": "Classic Room with Partial Sea View",
+      "description": "Classic partial sea view rooms with twin beds/king size bed with balcony, terrace, or Arabic Mashrabia with different locations and views.",
+      "price": "108",
+      "size": "Size: 48 m²",
+      "seaview": "Sea Side View",
+      "bed": "King Bed or Twin Beds",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Classic Room with Partial Sea View/1.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/2.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/3.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/4.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/5.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/6.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/7.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/8.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/9.jpg",
+        "/db/images/accommodation/Classic Room with Partial Sea View/10.jpg"
+      ]
+    },
+    {
+      "id": "Classic-Room-with-Sea-View",
+      "title": "Classic Room with Sea View",
+      "description": "Classic Sea View rooms with twin beds / king size bed with balcony, located on the 2nd highest floor.",
+      "price": "144",
+      "size": "Size: 48 m²",
+      "seaview": "Sea View",
+      "bed": "King, Queen or Twin Beds",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Classic Room with Sea View/1.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/2.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/3.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/4.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/5.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/6.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/7.jpg",
+        "/db/images/accommodation/Classic Room with Sea View/8.jpg"
+      ]
+    },
+    {
+      "id": "Classic-Room-with-Sea-View-Ultra-All-Inclusive",
+      "title": "Classic Room with Sea View - Ultra All Inclusive",
+      "description": "Classic Sea View rooms with twin beds / king size bed with balcony, located on the 2nd highest floor.",
+      "price": "150",
+      "size": "Size: 48 m²",
+      "seaview": "Sea View",
+      "bed": "King, Queen or Twin Beds",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/1.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/2.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/3.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/4.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/5.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/6.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/7.jpg",
+        "/db/images/accommodation/Classic Room with Sea View - Ultra All Inclusive/8.jpg"
+      ]
+    },
+    {
+      "id": "Deluxe-Room-with-Sea-View",
+      "title": "Deluxe Room with Sea View",
+      "description": "Luxurious version of accommodation, at prime location to the sea, twin bed /king size bed with balcony, located on the highest floors, featuring additional facilities; fruit basket, cookies, mineral water, bathrobe and slippers.",
+      "price": "162",
+      "size": "Size: 48 m²",
+      "seaview": "Sea View",
+      "bed": "King, Queen, Twin",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Deluxe Room with Sea View/1.jpg",
+        "/db/images/accommodation/Deluxe Room with Sea View/2.jpg",
+        "/db/images/accommodation/Deluxe Room with Sea View/3.jpg",
+        "/db/images/accommodation/Deluxe Room with Sea View/4.jpg",
+        "/db/images/accommodation/Deluxe Room with Sea View/5.jpg",
+        "/db/images/accommodation/Deluxe Room with Sea View/6.jpg",
+        "/db/images/accommodation/Deluxe Room with Sea View/7.jpg"
+      ]
+    },
+    {
+      "id": "Deluxe-Suite-with-Sea-View",
+      "title": "Deluxe Suite with Sea View",
+      "description": "Luxurious version of accommodation, at prime location to the sea, twin bed /king size bed with balcony, located on the highest floors, featuring additional facilities; fruit basket, cookies, mineral water, bathrobe and slippers.",
+      "price": "666",
+      "size": "Size: 167 m²",
+      "seaview": "Sea View",
+      "bed": "King, Twin",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Deluxe Suite with Sea View/1.jpg",
+        "/db/images/accommodation/Deluxe Suite with Sea View/2.jpg",
+        "/db/images/accommodation/Deluxe Suite with Sea View/3.jpg",
+        "/db/images/accommodation/Deluxe Suite with Sea View/4.jpg"
+      ]
+    },
+    {
+      "id": "Family-Room-with-Partial-Sea-View",
+      "title": "Family Room with Partial Sea View",
+      "description": "Spacious large room 52 sqm. with twin bed /king size bed and convertible couch for kids with partial sea view, overlooking the gardens and pool, with Arabic mashrabeya window.",
+      "price": "180",
+      "size": "Size: 52 m²",
+      "seaview": "Partial Sea View",
+      "bed": "Queen, Twin",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Family Room with Partial Sea View/1.jpg",
+        "/db/images/accommodation/Family Room with Partial Sea View/2.jpg",
+        "/db/images/accommodation/Family Room with Partial Sea View/3.jpg",
+        "/db/images/accommodation/Family Room with Partial Sea View/4.jpg",
+        "/db/images/accommodation/Family Room with Partial Sea View/5.jpg",
+        "/db/images/accommodation/Family Room with Partial Sea View/6.jpg"
+      ]
+    },
+
+    {
+      "id": "Junior-Suite-with-Sea-View",
+      "title": "Junior Suite with Sea View",
+      "description": "Enjoy views of our swimming pool, palm trees and the Red Sea, as well as a balcony, satellite TV, comfortable queen-size bed and bathtub in our spacious 55sqm. junior suites on the fifth floor, featuring additional facilities; fruit basket, cookies, mineral water, bathrobe and slippers.",
+      "price": "189",
+      "size": "Size: 55 m²",
+      "seaview": "Sea View",
+      "bed": "King",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Junior Suite with Sea View/1.jpg",
+        "/db/images/accommodation/Junior Suite with Sea View/2.jpg",
+        "/db/images/accommodation/Junior Suite with Sea View/3.jpg",
+        "/db/images/accommodation/Junior Suite with Sea View/4.jpg",
+        "/db/images/accommodation/Junior Suite with Sea View/5.jpg",
+        "/db/images/accommodation/Junior Suite with Sea View/6.jpg"
+      ]
+    },
+    {
+      "id": "Presidential-Suite-with-Sea-View",
+      "title": "Presidential Suite with Sea View",
+      "description": "Settled into a large space of 216 sqm. offers panoramic sea view, a terrace, living room, kitchenette, dining area for twelve guests and bedroom with a queen bed, sitting area, jacuzzi and rain shower.",
+      "price": "700",
+      "size": "Size: 216 m²",
+      "seaview": "Sea View",
+      "bed": "King",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Presidential Suite with Sea View/1.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/2.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/3.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/4.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/5.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/6.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/7.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/8.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/9.jpg",
+        "/db/images/accommodation/Presidential Suite with Sea View/10.jpg"
+      ]
+    },
+    {
+      "id": "Terrace-Suite-with-Sea-View",
+      "title": "Terrace Suite with Sea View",
+      "description": "Settle into a large space of 160 sqm. Queen bed, with spectacular views of the Red Sea, a terrace with sunbeds, living room, dining area, kitchenette and two bathrooms.",
+      "price": "576",
+      "size": "Size: 160 m²",
+      "seaview": "Sea View",
+      "bed": "King",
+      "guests": "4 guests maximum (2 adults, 2 children)",
+      "images": [
+        "/db/images/accommodation/Terrace Suite with Sea View/1.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/2.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/3.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/4.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/5.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/6.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/7.jpg",
+        "/db/images/accommodation/Terrace Suite with Sea View/8.jpg"
+      ]
+    },
+    {
+      "id": "Three-Bedroom-Villa-with-Private-Pool",
+      "title": "Three-Bedroom Villa with Private Pool",
+      "description": "Three-bedroom villa features luxury furniture and extensive views over the sea, includes a living area, kitchenette, private parking area with a small garden. It consists of one Pool Suite in the first floor. The second floor consist of Holiday Suite and Honeymoon suite with a separate dressing area and a nice terrace overviewing the hotel marina and the sea.",
+      "price": "800",
+      "size": "Size: 288 m²",
+      "seaview": "Pool View",
+      "bed": "King",
+      "guests": "9 guests maximum (6 adults, 3 children)",
+      "type": "villa",
+      "sn": "1",
+      "images": [
+        "/db/images/accommodation/Three-Bedroom Villa with Private Pool/1.jpg",
+        "/db/images/accommodation/Three-Bedroom Villa with Private Pool/2.jpg",
+        "/db/images/accommodation/Three-Bedroom Villa with Private Pool/3.jpg",
+        "/db/images/accommodation/Three-Bedroom Villa with Private Pool/4.jpg",
+        "/db/images/accommodation/Three-Bedroom Villa with Private Pool/5.jpg"
+      ]
+    },
+    {
+      "id": "Four-Bedroom-Villa-with-Private-Pool",
+      "title": "Four-Bedroom Villa with Private Pool",
+      "description": "Four-bedroom villa features luxury furniture and extensive views over the sea, includes a living area, kitchenette, private parking area with a small garden. It consists of one Pool Suite in the first floor. The second floor consist of three bedrooms and a nice terrace overviewing the hotel marina and the sea.",
+      "price": "900",
+      "size": "Size: 288 m²",
+      "seaview": "Pool View",
+      "bed": "King & Twin",
+      "guests": "12 guests maximum (8 adults, 4 children)",
+      "type": "villa",
+      "sn": "2",
+      "images": [
+        "/db/images/accommodation/Four-Bedroom Villa with Private Pool/1.jpg",
+        "/db/images/accommodation/Four-Bedroom Villa with Private Pool/2.jpg",
+        "/db/images/accommodation/Four-Bedroom Villa with Private Pool/3.jpg",
+        "/db/images/accommodation/Four-Bedroom Villa with Private Pool/4.jpg",
+        "/db/images/accommodation/Four-Bedroom Villa with Private Pool/5.jpg"
+      ]
+    }
+  ],
+  "gallery_carousel": [
+    "/db/images/gallery-carousel/1.jpg",
+    "/db/images/gallery-carousel/2.jpg",
+    "/db/images/gallery-carousel/3.jpg",
+    "/db/images/gallery-carousel/4.jpg",
+    "/db/images/gallery-carousel/5.jpg",
+    "/db/images/gallery-carousel/6.jpg",
+    "/db/images/gallery-carousel/7.jpg",
+    "/db/images/gallery-carousel/8.jpg"
+  ],
+  "health_club": [
+    {
+      "id": "hc1",
+      "sn": "1",
+      "title": "Gym Room",
+      "description": "Stay fit while on vacation at our fully equipped gym located at the second floor of the Health Club All guests are offered complimentary use of the gym room.",
+      "images": [
+        {
+          "id": "gym1",
+          "src": "/db/images/health-club/Gym Room/1.jpg",
+          "carousel": "gym"
+        },
+        {
+          "id": "gym2",
+          "src": "/db/images/health-club/Gym Room/2.jpg"
+        },
+        {
+          "id": "gym3",
+          "src": "/db/images/health-club/Gym Room/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hc2",
+      "sn": "2",
+      "title": "Sauna & Steam Bath",
+      "description": "The sauna area of the Health Club offers valuable moments of detoxication from the stress of everyday life. The steam bath allows the overworked body to gradually receive the beneficial heat that heals and eliminates toxins and dead cells.",
+      "images": [
+        {
+          "id": "sau",
+          "src": "/db/images/health-club/Sauna - Steam Bath/1.jpg",
+          "carousel": "sauna"
+        }
+      ]
+    },
+    {
+      "id": "hc3",
+      "sn": "3",
+      "title": "Spa Treatments",
+      "description": "Discover our extensive menu of spa treatments, promising moments of invigoration for body & spirit and helping you feel recharged.",
+      "images": [
+        {
+          "id": "spa1",
+          "src": "/db/images/health-club/Spa Treatments/1.jpg",
+          "carousel": "spa"
+        }
+      ]
+    },
+    {
+      "id": "hc4",
+      "sn": "4",
+      "title": "Massage",
+      "description": "Our experienced therapists provide an array of exceptional massages to suit your body's needs. Restorative massages stimulating the body and calming the soul.",
+      "images": [
+        {
+          "id": "massage1",
+          "src": "/db/images/health-club/Massage/1.jpg",
+          "carousel": "massage"
+        },
+        {
+          "id": "massage2",
+          "src": "/db/images/health-club/Massage/2.jpg"
+        },
+        {
+          "id": "massage3",
+          "src": "/db/images/health-club/Massage/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hc5",
+      "sn": "5",
+      "title": "Jacuzzi",
+      "description": "Immerse yourself in warm water, enhanced by the powerful massaging pulse of the jets and quiet your mind and let relaxation take over.",
+      "images": [
+        {
+          "id": "jac",
+          "src": "/db/images/health-club/Jacuzzi/1.jpg",
+          "carousel": "jacouzzi"
+        }
+      ]
+    }
+  ]
+}

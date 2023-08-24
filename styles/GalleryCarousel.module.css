@@ -1,0 +1,45 @@
+.galleryCarousel {
+  position: relative;
+}
+.mainCarouselWrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.mainCarousel {
+  position: relative;
+  width: 60%;
+}
+.secCarousel {
+  display: flex;
+  position: absolute;
+  top: 30%;
+  z-index: -1;
+}
+.secLeft,
+.secRight {
+  width: 50%;
+}
+.prevBtn,
+.nextBtn {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  z-index: 3;
+  width: 40px;
+  height: 40px;
+}
+.prevBtn,
+.nextBtn:hover {
+  cursor: pointer;
+}
+.prevBtn {
+  left: -40px;
+  top: 50%;
+}
+.nextBtn {
+  right: -40px;
+  top: 50%;
+}
